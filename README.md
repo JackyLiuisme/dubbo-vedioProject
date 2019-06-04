@@ -1,0 +1,2 @@
+# dubbo-vedioProject
+使用了guns开源框架和duboo\zookeeper来搭建一个视频资源分享的微服务网站
